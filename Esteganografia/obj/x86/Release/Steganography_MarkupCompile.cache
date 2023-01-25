@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Ricardo\Documents\GitHubRepos\Steganography\Esteganografia\obj\x86\Debug\
+C:\Users\Ricardo\Documents\GitHubRepos\Steganography\Esteganografia\obj\x86\Release\
 Esteganografia
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Ricardo\Documents\GitHubRepos\Steganography\Esteganografia\App.xaml
 1219584333
 
