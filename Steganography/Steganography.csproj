@@ -8,7 +8,7 @@
     <ProjectGuid>{A29FD8B1-4453-45AC-8D2F-520EBA84731D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Esteganografia</RootNamespace>
+    <RootNamespace>Steganography</RootNamespace>
     <AssemblyName>Steganography</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
