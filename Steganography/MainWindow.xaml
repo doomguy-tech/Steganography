@@ -1,7 +1,7 @@
 ﻿<Window x:Class="Steganography.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Steganography Demo - RH ®" Height="650" Width="525" WindowStyle="ThreeDBorderWindow" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" FontWeight="Bold" Icon="/Esteganografia;component/Images/logoO.bmp" SizeToContent="WidthAndHeight">
+        Title="Steganography Demo - RH ®" Height="650" Width="525" WindowStyle="ThreeDBorderWindow" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" FontWeight="Bold" SizeToContent="WidthAndHeight">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="86*"/>
